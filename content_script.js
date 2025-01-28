@@ -19,6 +19,6 @@ for (let i=0; i<text.length; i++) {
   if (text[i].innerHTML.includes('[emoji644]')) {
   text[i].innerHTML=text[i].innerHTML.replace('[emoji644]', '8' )}
   if (text[i].innerHTML.includes('[emoji645]')) {
-  text[i].innerHTML=text[i].innerHTML.replace('[emoji6345]', '9' )
+  text[i].innerHTML=text[i].innerHTML.replace('[emoji645]', '9' )
   if (text[i].innerHTML.includes('[emoji646]')) {
   text[i].innerHTML=text[i].innerHTML.replace('[emoji646]', '0' )}}}}
