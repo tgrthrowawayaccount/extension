@@ -1,6 +1,6 @@
 {
   "name": "TGR Emoji Extension",
-  "description": "Base Level Extension",
+  "description": "Fixes an Issue with the Emoji Numbers on the TGR Website",
   "version": "1.0",
   "manifest_version": 3,
 
